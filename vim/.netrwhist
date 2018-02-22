@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/etc/kafka'
+let g:netrw_dirhist_2='/opt/robo3t'
+let g:netrw_dirhist_3='/etc/nginx/sites-available'

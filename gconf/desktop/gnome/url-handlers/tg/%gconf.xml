@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="enabled" mtime="1503739475" type="bool" value="true"/>
+	<entry name="needs_terminal" mtime="1503739475" type="bool" value="false"/>
+	<entry name="command" mtime="1503739475" type="string">
+		<stringvalue>/home/luchaoyi/Downloads/Telegram/Telegram -- %s</stringvalue>
+	</entry>
+</gconf>
